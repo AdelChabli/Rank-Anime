@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999134037875",
+    "firebase_url": "https://rankanime-b7ab6.firebaseio.com",
+    "project_id": "rankanime-b7ab6",
+    "storage_bucket": "rankanime-b7ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999134037875:android:f27a8b963002faf41ea706",
+        "android_client_info": {
+          "package_name": "com.example.rankanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999134037875-0ufsekghn3hfu6cgs87peehvqmc73ipe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rankanime",
+            "certificate_hash": "a69f232859b51a691400ed2ab6222d7a359c3ef1"
+          }
+        },
+        {
+          "client_id": "999134037875-0f42pj2j1njbsntsct04mt1a2p919lo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArl36Yvg7Yhi42VdyKE8guF-44eABgSzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999134037875-0f42pj2j1njbsntsct04mt1a2p919lo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

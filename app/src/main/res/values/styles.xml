@@ -1,0 +1,31 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textViewStyle">@style/OpenSansTextStyle</item>
+        <item name="android:buttonStyle">@style/OpenSansButtonStyle</item>
+    </style>
+
+    <style name="addThem" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#F093FB</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textViewStyle">@style/OpenSansTextStyle</item>
+        <item name="android:buttonStyle">@style/OpenSansButtonStyle</item>
+    </style>
+
+    <style name="OpenSansTextStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/opensans_regular</item>
+    </style>
+
+    <style name="OpenSansButtonStyle" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">@font/opensans_regular</item>
+    </style>
+
+</resources>
